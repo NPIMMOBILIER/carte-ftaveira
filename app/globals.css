@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Polices appliquées via next/font (variables sur <html>). */
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background-color: #F4F1EA;
+}
